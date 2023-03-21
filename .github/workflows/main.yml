@@ -15,4 +15,4 @@ jobs:
         WPE_SSHG_KEY_PRIVATE: ${{ secrets.WPE_SSHG_KEY_PRIVATE }} 
         WPE_ENV: bigdaddytests
         # Deploy Options
-        REMOTE_PATH: "wp-content/themes/fivebyfive/"
+        REMOTE_PATH: "wp-content/themes/fivebyfive/git-test/"
